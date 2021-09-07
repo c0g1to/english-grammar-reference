@@ -1,0 +1,230 @@
+\section{Математическое ожидание}
+
+\subsection{Определения}
+\bred{Математическое ожидание} $M\xi$ на дискретном вероятностном пространстве (если ряд абсолютно сходится):
+\begin{equation*}
+    M\xi = \sum_{k=1}^\infty x_k P\{\xi = x_k\},
+\end{equation*}
+На абсолютно непрерывном (если интеграл абсолютно сходится):
+\begin{equation*}
+    M\xi = \int_{-\infty}^\infty x p_\xi(x) \diff{x},
+\end{equation*}
+Определение математического ожидания связано с обычным понятием о среднем значении.\\
+\\
+Пусть $\xi$ --- дискретный вектор.
+Если ряд абсолютно сходится, то для с.в. $\eta = \eta(\xi_1, \ldots, \xi_r)$:
+\begin{equation*}
+    M\eta = \sum_{k=1}^\infty \eta(x_{k_1}, \ldots, x_{k_r}) P\{\xi = x_k\}
+\end{equation*}
+Пусть $\xi$ --- абсолютно непрерывный вектор.
+Если интеграл абсолютно сходится, то:
+\begin{equation*}
+    M\eta = \int\underset{R^r}{\ldots}\int \eta(x_1, \ldots, x_r) p_\xi(x_1, \ldots, x_r) \diff{x_1} \ldots \diff{x_r}
+\end{equation*}
+\\
+Математические ожидания некоторых распределений:
+\begin{enumerate}
+    \item Нормальное: $M\xi = a$;
+    \item Показательное: $M\xi = 1/\alpha$;
+    \item Равномерное: $M\xi = (a + b)/2$;
+    \item Биномиальное: $M\xi = np$;
+    \item Пуассоновское: $M\xi = \lambda$.
+\end{enumerate}
+
+\subsection{Свойства математического ожидания}
+\begin{enumerate}
+    \item $MC = C$, где $C$ --- константа;
+    \item $M(C\xi) = CM\xi$;
+    \item $|M\xi| \le M|\xi|$;
+    \item $M(\xi_1 + \xi_2) = M\xi_1 + M\xi_2$;
+    \item Если $\xi_1$ и $\xi_2$ независимы, то $M\xi_1\xi_2 = M\xi_1 \cdot M\xi_2$.
+\end{enumerate}
+\ \\
+Для произвольных событий $A_1, A_2,\ldots, A_n$:
+\begin{equation*}
+    P(\bigcup_{m=1}^n A_m) = \sum_{m=1}^n (-1)^{m+1} \sum_{1 \le k_1 < k_2 < \ldots < k_m \le n} P(A_{k_1} A_{k_2} \ldots A_{k_m})
+\end{equation*}
+
+\subsection{Дисперсия}
+\bred{Дисперсия} $D\xi$ с.в. $\xi$:
+\begin{equation*}
+    D\xi = M(\xi - M\xi)^2 = M\xi^2 - (M\xi)^2
+\end{equation*}
+Для абсолютно непрерывной $\xi$:
+\begin{equation*}
+    D\xi = \int_{-\infty}^\infty (x - M\xi)^2 p_\xi(x) \diff{x}
+\end{equation*}
+Для дискретной $\xi$:
+\begin{equation*}
+    D\xi = \sum_{k=1}^\infty (x_k - M\xi)^2 P\{\xi = x_k\}
+\end{equation*}
+Дисперсия является мерой рассеяния значений случайной величины около ее математического ожидания.
+Величину $\sqrt{D\xi}$ называют \bred{средним квадратичным отклонением}.\\
+\\
+Свойства дисперсии:
+\begin{enumerate}
+    \item $D\xi \ge 0$ для любой $\xi$;
+    \item $DC = 0$;
+    \item $D(C\xi) = C^2D\xi$;
+    \item Для независимых $\xi_1$ и $\xi_2$: $D(\xi_1 + \xi_2) = D\xi_1 + D\xi_2$.
+\end{enumerate}
+\ \\
+Дисперсии некоторых распределений:
+\begin{enumerate}
+    \item Нормальное: $D\xi = \sigma^2, \quad D(A\xi + B) = A^2\sigma^2$;
+    \item Равномерное: $D\xi = (b - a)^2 / 12$;
+    \item Пуассоновское: $D\xi = \lambda$;
+    \item Биномиальное: $D\xi_k = p(1 - p), \quad D\mu_n = np(1 - p)$;
+    \item Гипергеометрическое: $D\xi = n \frac{M}{N} \left(1 - \frac{M}{N}\right) \frac{N - n}{N - 1}$.
+\end{enumerate}
+
+\subsection{Ковариация и коэффициент корреляции}
+\bred{Ковариация} с.в. $\xi_1, \xi_2$:
+\begin{equation*}
+    \cov(\xi_1, \xi_2) = M[(\xi_1 - M\xi_1)(\xi_2 - M\xi_2)] = M\xi_1\xi_2 - M\xi_1 \cdot M\xi_2
+\end{equation*}
+Полезные равенства:
+\begin{enumerate}
+    \item $\cov(\xi_1, \xi_2) = \cov(\xi_2, \xi_1)$;
+    \item $\cov(C\xi_1, \xi_2) = C\cov(\xi_1, \xi_2)$;
+    \item $D(\xi_1 + \xi_2) = D\xi_1 + D\xi_2 + 2\cov(\xi_1, \xi_2)$;
+    \item Для независимых $\xi_1$ и $\xi_2$: $\cov(\xi_1, \xi_2) = 0$;
+    \item $D(C_1\xi_1 + C_2\xi_2 + \ldots + C_n\xi_n) = \sum_{i, j = 1}^n \cov(\xi_i, \xi_j) C_i C_j$.
+\end{enumerate}
+\begin{gather*}
+    D[\xi] = D[(\xi_1, \ldots, \xi_m)] = ||\cov(\xi_1, \xi_j)||\\
+    |D[\xi]| \ge 0\\
+    |\cov(\xi_1, \xi_2)| \le \sqrt{D\xi_1 D\xi_2}
+\end{gather*}
+\\
+\bred{Коэффициент корреляции} с.в. $\xi_1, \xi_2$:
+\begin{equation*}
+    \rho(\xi_1, \xi_2) = \frac{\cov(\xi_1, \xi_2)}{\sqrt{D\xi_1 D\xi_2}}
+\end{equation*}
+Является количественной характеристикой степени зависимости с.в.\\
+Свойства:
+\begin{enumerate}
+    \item $|\rho(\xi_1, \xi_2)| \le 1$;
+    \item Если $\xi_1$ и $\xi_2$ независимы, то $\rho(\xi_1, \xi_2) = 0$ (необходимое условие);
+    \item Если $\xi_2 = A\xi_1, + B$, где $A$ и $B$ --- постоянные, то $|\rho(\xi_1, \xi_2)| = 1$.
+\end{enumerate}
+\ \\
+$M\xi^k$ --- \textbf{момент} порядка $k$ с.в. $\xi$.\\
+$M(\xi - M\xi)^k$ --- \textbf{центральный момент} порядка $k$.\\
+$M \xi_1^{k_1} \xi_2^{k_2} \ldots \xi_n^{k_n}$ --- \textbf{смешанный момент} порядка $k = k_1 + \ldots + k_n$
+случайного вектора $(\xi_1, \xi_2, \ldots, \xi_n)$.\\
+$M (\xi_1 - M\xi_1)^k_1 \ldots (\xi_n - M\xi_n)^k_n$ --- \textbf{смешанный центральный момент} порядка $k$.
+\begin{equation*}
+    M \xi_1^{k_1} \xi_2^{k_2} =
+    \int_{-\infty}^\infty \int_{-\infty}^\infty x_1^{k_1} x_2^{k_2} p_{\xi_1 \xi_2} (x_1, x_2) \diff{x_1} \diff{x_2}
+\end{equation*}
+Из существования момента $M\xi^m$ вытекает существование моментов $M\xi^k$, $k = 1, \ldots, m - 1$.
+
+\subsection{Закон больших чисел}
+Если $\xi(\omega) \ge 0$ при любом $\omega \in \Omega$, то при любом $\varepsilon > 0$:
+\begin{equation*}
+    P\{\xi \ge \varepsilon\} \le \frac{M\xi}{\varepsilon}
+\end{equation*}
+\\
+\bred{Неравенство Чебышева}.
+При любом $\varepsilon > 0$:
+\begin{equation*}
+    P\{|\xi - M\xi| \ge \varepsilon\} \le \frac{D\xi}{\varepsilon^2}
+\end{equation*}
+--- позволяет оценивать вероятности отклонений значений с.в. от своего математического ожидания
+или ошибку приближенного значения измеряемой величины.\\
+\\
+Если $f(x)$ --- неубывающая неотрицательная функция, то при любом $\varepsilon > 0$:
+\begin{equation*}
+    P\{\xi \ge \varepsilon\} \le \frac{Mf(\xi)}{f(\varepsilon)}
+\end{equation*}
+\\
+Если с.в. $\xi_1, \ldots, \xi_n$ попарно независимы и $\lim_{n\to\infty} \frac{1}{n^2} \sum_{k=1}^n D\xi_k = 0$,\\
+или если $D\xi_k \le C$ (\textbf{теорема Чебышева}), то при любом $\varepsilon > 0$:
+\begin{equation*}
+    \lim_{n\to\infty} P\left\{\left| \frac{\xi_1 + \xi_2 + \ldots + \xi_n}{n} -
+    \frac{M\xi_1 + M\xi_2 + \ldots + M\xi_n}{n} \right| < \varepsilon \right\} = 1
+\end{equation*}
+Если с.в. $\xi_1, \ldots, \xi_n$ попарно независимы и одинаково распределены, то при любом $\varepsilon > 0$:
+\begin{equation*}
+    \lim_{n\to\infty} P\left\{\left| \frac{\xi_1 + \xi_2 + \ldots + \xi_n}{n} -
+    M\xi_k \right| < \varepsilon \right\} = 1
+\end{equation*}
+\textbf{Теорема Бернулли}.
+При любом $\varepsilon > 0$:
+\begin{equation*}
+    \lim_{n\to\infty} P\left\{\left| \frac{\mu_n}{n} - p \right| < \varepsilon \right\} = 1
+\end{equation*}
+
+\subsection{Условные распределения и условные математические ожидания}
+Дискретный случай:\\
+\textbf{Условное распределение} $\xi$ при условии, что $\eta = y_j$:
+\begin{equation*}
+    P\{\xi = x_i \mid \eta = y_j\} = \frac{P\{\xi = x_i,\ \eta = y_j\}}{P\{\eta = y_j \}} = \frac{p_{ij}}{p_j},
+    \quad \text{где } p_j = \sum_{i=1}^\infty p_{ij}
+\end{equation*}
+\textbf{Условное математическое ожидание} $\xi$ при условии, что $\eta = y_j$:
+\begin{equation*}
+    M(\xi \mid \eta = y_j) = \sum_{j=1}^{\infty} x_i \frac{p_{ij}}{p_j}
+\end{equation*}
+\textbf{Формула полного математического ожидания}:
+\begin{equation*}
+    M\xi = M[M(\xi \mid \eta = y)] = \sum_{j=1}^{\infty} P\{\eta = y_j\} \, M(\xi \mid \eta = y_j)
+\end{equation*}
+\\
+Непрерывный случай:\\
+\textbf{Условная плотность распределения вероятностей} $\xi$ при условии, что $\eta = y$
+\begin{equation*}
+    p_\xi(x \mid \eta = y) = \frac{p_{\xi\eta}(x,y)}{\int_{-\infty}^\infty p_{\xi\eta}(u,y) \diff{u}},
+\end{equation*}
+отсюда
+\begin{equation*}
+    P\{a \le \xi \le b\} =
+    \int_{-\infty}^{\infty} p_\eta(y) \left(\int_a^b p_\xi(x \mid \eta = y) \diff{x} \right) \diff{y}
+\end{equation*}
+Условное математическое ожидание:
+\begin{equation*}
+    M(\xi \mid \eta = y) = \int_{-\infty}^{\infty} xp_\xi(x \mid \eta = y) \diff{x}
+\end{equation*}
+Полное математическое ожидания:
+\begin{equation*}
+    M\xi = M[M(\xi \mid \eta = y)] = \int_{-\infty}^{\infty} p_\eta(y) M(x \mid \eta = y) \diff{y}
+\end{equation*}
+\\
+Свойства условного математического ожидания:
+\begin{enumerate}
+    \item $M[\varphi(\eta) \mid \eta] = \varphi(\eta)$;
+    \item $M[\varphi(\eta)\xi \mid \eta] = \varphi(\eta) M(\xi \mid \eta = y_j)$;
+    \item $M[\xi_1 + \xi_2 \mid \eta] = M(\xi_1 \mid \eta = y_j) + M(\xi_2 \mid \eta = y_j)$;
+    \item Для независимых $\xi$ и $\eta$: $M(\xi \mid \eta) = M\xi$.
+\end{enumerate}
+Условное распределение и условное математическое ожидание можно считать с.в.
+
+\subsection{Многомерное нормальное распределение}
+Пусть $\xi = (\xi_1, \ldots, \xi_m)^T$ --- $m$-мерный случайный вектор-столбец,
+тогда распределение вектора $\eta = (\eta_1, \ldots, \eta_n)^T$:
+\begin{equation*}
+    \eta_i = \sum_{j = 1}^{m} c_{ij} \xi_j + a_i, \quad i = 1, \ldots, n \qquad \text{или} \qquad \eta = C\xi + a,
+\end{equation*}
+\\
+где $a = (a_1, \ldots, a_m)$ и $C = ||c_{ij}||$ --- $(n \times m)$-матрица.
+Вектор $a$ и матрица $C$ постоянны.\\
+Для $D[\eta] = D[\eta_1, \ldots, \eta_n]$:
+\begin{equation*}
+    D[\eta] = CD[\xi]C^T
+\end{equation*}
+\\
+\bred{Многомерным нормальным распределением} $n$ с.в. назовем распределение вектора $\eta$;
+с.в. $\xi_1, \xi_2, \ldots, \xi_m$ независимы и каждая распределена нормально с параметрами $(0, 1)$.\\
+Свойства:
+\begin{enumerate}
+    \item Одномерные распределения координат $\eta_i$ являются нормальными, если $D_{\eta_i} > 0$;
+    \item Любая линейная функция $\eta = A_1\eta_1 + \ldots + A_n\eta_n$ имеет нормальное распределение, если $D\eta > 0$;
+    \item Любое линейное преобразование $\zeta = A\eta$, имеет многомерное нормальное распределение.
+\end{enumerate}
+\textbf{Невырожденное} ($n = m$ и $|C| \neq 0$) $n$-мерное нормальное распределение является абсолютно непрерывным и
+\begin{equation*}
+    p_\eta(x_1, \ldots, x_r) = \frac{1}{(2\pi)^{r/2} \sqrt{|B|}} e^{-\frac{1}{2} Q(x-a)},
+\end{equation*}
+где $B = ||b_{ij}||$ --- невырожденная $(n \times n)$-матрица,
+$b_{ij} = \cov(\eta_i, \eta_j),\ a_i = M\eta_i,\ Q(x) = \sum b_{ij}^* x_i x_j$ ($||b_{ij}^*||$ --- обратная $B$).

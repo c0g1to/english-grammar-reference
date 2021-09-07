@@ -1,0 +1,100 @@
+\documentclass[a4paper,14pt]{article}
+
+%Font
+\usepackage{fontspec}
+\setmainfont{CMU Serif}[Ligatures=TeX]
+\usepackage{polyglossia}
+\setdefaultlanguage{russian}
+\setotherlanguages{english}
+\usepackage{emoji}
+\setemojifont{TwemojiMozilla}
+
+\usepackage{bookmark}
+\usepackage{booktabs}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{array}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{calc}
+\usepackage{longtable}
+\usepackage{ragged2e}
+\usepackage{extsizes}
+\usepackage{hyperref}
+\usepackage{ulem}
+\usepackage{graphicx}
+\usepackage{subfiles}
+\usepackage{mdframed}
+\usepackage{enumitem}
+
+%Indents
+\setlength{\parindent}{1.8em}
+\setlength{\parskip}{0.5em}
+\addtolength{\voffset}{-3cm}
+\addtolength{\hoffset}{-2cm}
+\addtolength{\textheight}{+6cm}
+\addtolength{\textwidth}{+4cm}
+%Element indents
+\makeatletter
+\newcommand{\mathleft}{\@fleqntrue\@mathmargin}
+\newcommand{\mathcenter}{\@fleqnfalse}
+\makeatother
+\setlist{itemsep=0, topsep=0, partopsep=0}
+
+%Tables
+\renewcommand{\arraystretch}{1.2}
+\setlength\LTpre{0}
+\setlength\LTpost{0}
+
+%Partition
+\setcounter{secnumdepth}{1}
+\makeatletter
+\@addtoreset{section}{part}
+\makeatother
+
+%Theorems
+\mdfdefinestyle{basic}{
+    linewidth=1,
+    outertopmargin = 0,
+    outerbottommargin = 0,
+%    innerrightmargin = 1cm,
+}
+\theoremstyle{definition}
+\newtheorem{_key_}{Ключевые термины}[section]
+\newtheorem{_theorem_}{Теорема}[section]
+\newtheorem{_lemma_}[theorem]{Лемма}
+\newenvironment{terms}{
+    \begin{mdframed}[style=basic]
+        \begin{Center}
+            \textbf{\large Термины}
+        \end{Center}
+        \begin{description}[style=nextline, itemsep=0.2em, partopsep=0, topsep=0]
+            \mathleft}
+            {
+        \end{description}
+    \end{mdframed}\par}
+
+
+\title{Математическая статистика}
+\author{Даня Дудаф}
+\date{20 августа 2021 г.}
+
+\begin{document}
+    %Equation indents
+    \abovedisplayshortskip=-0.9em
+    \abovedisplayskip=0.1em
+    \belowdisplayskip=0em
+
+    %Header info
+    \maketitle
+    \thispagestyle{empty}
+    \tableofcontents
+    \newpage
+
+    \include{50 notions/exploring}
+    \include{50 notions/distribution}
+
+    %    \include{sources}       %TODO standart resource list
+\end{document}

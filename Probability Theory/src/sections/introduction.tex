@@ -1,0 +1,53 @@
+\section{Введение}
+
+\subsection{Пространство элементарных событий}
+$(\Omega, \frak{A}, P)$ ~--- \bred{вероятностное пространство};\\
+$\Omega$ --- \bred{пространство элементарных событий};\\
+$\omega$ --- \bred{элементарные события}, соответствуют взаимоисключающие исходы;\\
+$\Omega = \{\omega_1, \omega_2, \ldots, \omega_n\}$.
+
+\bred{Случайное событие} --- любое подмножество $\Omega$, если оно конечно или счетно;\\
+\textbf{Счетное множество} --- элементы которого можно занумеровать.\\
+$\Omega$ --- \textbf{достоверное} событие;\\
+$\emptyset$ --- \textbf{невозможное} событие.\\
+$A$ и $B$ --- несовместны, если $AB = \emptyset$.
+
+\subsection{Алгебра событий}
+$\frak{A}$ - класс подмножеств множества $\Omega$;\\
+$\frak{A}$ - \bred{алгебра событий},\\
+если $\Omega \in \frak{A},\ \emptyset \in \frak{A},\ AB \in \frak{A},
+\ A + B \in \frak{A},\ A \setminus B \in \frak{A}$\\
+при любых $A \in \frak{A}$ и $B \in \frak{A}$.\\
+
+Если $\Omega$ --- конечное, тогда $\frak{A}$ --- конечное;\\
+Если размерность $\Omega$ --- $N$, тогда число всех подмножеств $2^N$.\\
+
+Алгебра событий $\frak{A}$ --- \bred{$\sigma$-алгебра} (борелевская алгебра), если\\
+из $A_n \in \frak{A},\ n = 1,2\ldots$, следует$ \quad \bigcup_{n=1}^{\infty} A_n \in \frak{A} \quad
+\text{и} \quad \bigcap_{n=1}^{\infty} A_n \in \frak{A}$.
+
+\subsection{Вероятность}
+Числовая функция $P$, определенная на классе событий $\frak{A}$ - \bred{вероятность}, если:
+\begin{enumerate}
+    \item $\frak{A}$ является алгеброй событий.
+    \item $P(A) \geq 0$ для любого $A \in \frak{A}.$
+    \item $P(\Omega) = 1.$
+    \item Если $A$ и $B$ \bred{несовместны}, то $P(A + B) = P(A) + P(B)$\\
+    (\textbf{аксиома конечной аддитивности}).\\
+    \textbf{Несовместные события} --- те, которые не могут произойти одновременно.
+    \item Для любой последовательности $A_1 \supset A_2 \supset \ldots \supset A_n$ из $\frak{A}$ такой,\\
+    что $\bigcap_{n=1}^{\infty} A_n = \emptyset$,\\
+    справедливо $\lim_{n \to \infty} P(A_n) = 0$.
+\end{enumerate}
+
+Свойства:
+\begin{itemize}
+    \item $P(\overline{A}) = 1 - P(A)$.
+    \item $P(A + B) = P(A) + P(B) - P(AB)$.
+    \item Если события $A_1, A_2, \dots, A_n$ --- попарно несовместны
+    и $A = \bigcup_{n=1}^{\infty} A_n \in \frak{A}$,\\
+    то $P(A) = \sum_{n=1}^\infty P(A_n)$.
+    \item Если $A_1 \subset A_2 \subset \ldots \subset A_n \quad \text{и} \quad A=\bigcup_{n=1}^{\infty} A_n$\\
+    или $A_1 \supset A_2 \supset \ldots \supset A_n \quad \text{и} \quad A=\bigcap_{n=1}^{\infty} A_n$,\\
+    то $P(A) = \lim_{n \to \infty} P(A_n)$.
+\end{itemize}

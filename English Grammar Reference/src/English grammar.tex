@@ -1,0 +1,95 @@
+\documentclass[a4paper,14pt]{article}
+
+%Font
+\usepackage{fontspec}
+\setmainfont{CMU Serif}[Ligatures=TeX]
+
+\usepackage{bookmark}
+\usepackage{array}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{ragged2e}
+\usepackage{extsizes}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{ulem}
+\usepackage{emoji}
+\usepackage{subfiles}
+\setemojifont{TwemojiMozilla}
+
+%Indents
+\setlength{\parindent}{0}
+\addtolength{\voffset}{-3cm}
+\addtolength{\textheight}{+6cm}
+\addtolength{\hoffset}{-2cm}
+\addtolength{\textwidth}{+4cm}
+
+%Tables
+\renewcommand{\arraystretch}{1.2}
+
+%Long tables
+\setlength\LTpre{0}
+\setlength\LTpost{0}
+
+%Partition
+\setcounter{secnumdepth}{1}
+\makeatletter
+\@addtoreset{section}{part}
+\makeatother
+
+% ===== NEW COMMANDS =====
+%Text stressing
+\newcommand{\bred}[1]{\textcolor{purple}{\textbf{#1}}}
+\newcommand{\vio}[1]{\textcolor{violet}{#1}}
+\newcommand{\underit}[1]{\textit{\underline{#1}}}
+\newcommand{\tHead}[1]{\Centering\textbf{\large #1}}
+%Sections
+\newcommand{\hard}[1]{\emoji{hot-pepper} #1 \emoji{hot-pepper}}
+\newcommand{\hardcore}[1]{\emoji{fire}\emoji{fire} #1 \emoji{fire}\emoji{fire}}
+%Item lists
+\newcommand{\doot}{\textbullet\textbullet}
+\newcommand{\dooot}{\textbullet\textbullet\textbullet}
+\renewcommand\labelitemii{\textbf{-}}
+\newcommand{\daash}{\textbf{-}\textbf{-}}
+\newcommand{\daaash}{\textbf{-}\textbf{-}\textbf{-}}
+%\newcommand{\daash}{\textendash\textendash}
+%\newcommand{\daaash}{\textendash\textendash\textendash}
+\newcommand{\aast}{\ast\ast}
+\newcommand{\aaast}{\ast\ast\ast}
+% ===== ======
+
+
+\title{English grammar reference}
+\author{Danya Dudaf}
+\date{April 9, 2021}
+%\date{Last release: \today}
+
+
+\begin{document}
+
+    \maketitle
+    \thispagestyle{empty}
+    \tableofcontents
+    \newpage
+
+
+    \include{legend} %TODO preface
+
+    \include{tenses/present}
+    \include{tenses/past}
+    \include{tenses/future}
+    \include{speech-parts/modals}
+    \include{sentences/questions}
+    \include{speech-parts/verbs}
+    \include{speech-parts/nouns}
+    \include{speech-parts/quantifiers}
+    \include{speech-parts/prepositions}
+    \include{speech-parts/adjectives}
+    \include{sentences/conditionals}
+    \include{sentences/speech}
+    \include{sentences/linking}
+
+    \include{sources}       %TODO BibTex resource list
+
+\end{document}

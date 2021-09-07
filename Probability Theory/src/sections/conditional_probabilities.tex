@@ -1,0 +1,33 @@
+\section{Условные вероятности}
+
+\subsection{Условные вероятности}
+\bred{Условная вероятность} $P(B|A)$ события $B$ при условии, что $A$ произошло
+\begin{equation*}
+    P(B|A)=\frac{|AB|}{|A|}=\frac{P(AB)}{P(A)}
+\end{equation*}
+Если $A$ и $B$ \bred{независимы}, то
+\begin{equation*}
+    P(B|A)=P(B) \quad \text{и} \quad P(AB)=P(A) \cdot P(B)
+\end{equation*}
+\textbf{Независимые события} --- наступление одного, не изменяет вероятность наступления другого.
+
+\subsection{Вероятность произведения событий}
+\bred{Теорема умножения}:
+\begin{equation*}
+    P(A_1 A_2 \ldots A_n) = P(A_1) P(A_2 | A_1) \ldots P(A_n | A_1 \ldots A_{n-1})
+\end{equation*}
+События $A_1, \ldots, A_n$ \bred{взаимно независимые}, если для всех комбинаций:
+\begin{equation*}
+    P(A_1 A_2 \ldots A_n) = P(A_1) P(A_2) \ldots P(A_n)
+\end{equation*}
+
+\subsection{Формула полной вероятности}
+Пусть $A$ --- произвольное событие, $B_1, B_2, \ldots, B_n$ попарно несовместны и
+$A \subset B_1 + B_2 + \ldots + B_n$, тогда \bred{формула полной вероятности}:
+\begin{equation*}
+    P(A) = \sum_{i = 1}^n P(B_i) P(A|B_i)
+\end{equation*}
+\bred{Формула Байеса}:
+\begin{equation*}
+    P(B_k|A) = \frac{P(B_k)P(A|B_k)}{\sum_{i = 1}^n P(B_i) P(A|B_i)}
+\end{equation*}
