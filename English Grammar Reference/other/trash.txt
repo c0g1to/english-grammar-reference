@@ -1,58 +1,61 @@
-A 7-3
-2c
-3f
-4e
-5g-
-6a-
-7h
-8d-
+A
+invented
+is called
+have known-
+was being collected
+should be thrown away
+do you make
+wasn't invited
 
-B 7-2
-Mile is further than kilometre
-sky blue is paler than navy blue -
-a dolphin is cleverer than a snake-
-gold is more valuable than silver
-yoga is more relaxing than football
-wind energy is cleaner than nuclear energy
-a billionaire is richer than millionaire
+B
+Your ID may be requested
+Your tickets must be shown
+Your bag may be taken away or destroyed
+Credit cards are not accepted
+you will be asked to leave
+Hard hats must be worn
+ID should be carried at all times
 
-C 7
-as
-as
-like
-far
-as
-to
-than
+C
+can be shaped
+couldn't have been built-
+have only been produced-
+was discovered
+is found
+is taken
+is heated
+was first produced
+are needed
+is reused
+can be recycled
 
-D 7
-as far away as possible
-as early as possible
-as comfortable as possible
-asap
-as often as possible
-as clearly as possible
-as little as possible
+D
+is being repaired
+is being cleaned
+is being showed
+are being studied
+is being taken
 
-E 9-4
-more easily-
-more carefully
-more confident-
-harder
-more aware-
-faster
-as logical as
-more interested
-further-
+E
+have been closed
+has been blamed-
+are wasting-
+have been put forward-
+could be asked
+was arrested
+was trying
+is being questioned
+got
+was
+was brought up-
+made
 
-F 7-2
-more polite
-further-
-more interesting
-as not hurting as
-more common
-faster
-higher and higher-
+F
+The film was directed by Irvin Kershner
+The story was composed b George Lucas
+Luke Skywalker is played by Mark Hamil
+The film was rewarded with OSCAR for the best sound
+It was filmed in Norway with Elstree Studios in London
+Return of the Jedi was followed by this film
 
-Test 5
-abcba
+1a 2c 3b 4c 5a
