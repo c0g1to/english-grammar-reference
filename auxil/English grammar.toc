@@ -1,0 +1,85 @@
+\contentsline {part}{I\hspace {1em}RULES}{4}{part.1}%
+\contentsline {section}{\numberline {1}Present}{5}{section.1.1}%
+\contentsline {subsection}{Be}{5}{section*.2}%
+\contentsline {subsection}{Present simple}{5}{section*.3}%
+\contentsline {subsection}{Present continuous}{5}{section*.4}%
+\contentsline {subsection}{Imperatives}{6}{section*.5}%
+\contentsline {subsection}{Present perfect}{6}{section*.6}%
+\contentsline {subsection}{Present perfrect continuous!!}{6}{section*.7}%
+\contentsline {section}{\numberline {2}Past}{7}{section.1.2}%
+\contentsline {subsection}{Past simple}{7}{section*.8}%
+\contentsline {subsection}{Past continuous}{7}{section*.9}%
+\contentsline {subsection}{When, while, as}{7}{section*.10}%
+\contentsline {subsection}{Used to}{8}{section*.11}%
+\contentsline {subsection}{Would!!🔥}{8}{section*.12}%
+\contentsline {subsection}{Past perfect!!}{8}{section*.13}%
+\contentsline {subsection}{Past perfect continuous!!}{8}{section*.14}%
+\contentsline {section}{\numberline {3}The future}{9}{section.1.3}%
+\contentsline {subsection}{Will, shall, won't}{9}{section*.15}%
+\contentsline {subsection}{Present continuous with future meaning}{9}{section*.16}%
+\contentsline {subsection}{Be going to}{9}{section*.17}%
+\contentsline {section}{\numberline {4}Modal verbs}{10}{section.1.4}%
+\contentsline {subsection}{Modal verbs: can, could, be able to}{10}{section*.18}%
+\contentsline {subsection}{Modals for requests: can, could, may}{10}{section*.19}%
+\contentsline {subsection}{Must, have to and can't}{10}{section*.20}%
+\contentsline {subsection}{Should, ought to}{10}{section*.21}%
+\contentsline {subsection}{Modals of possibility: may, might}{10}{section*.22}%
+\contentsline {section}{\numberline {5}Questions and answers}{11}{section.1.5}%
+\contentsline {subsection}{Yes/no questions and short answers}{11}{section*.23}%
+\contentsline {subsection}{Question words}{11}{section*.24}%
+\contentsline {subsection}{Object and subject quesions}{11}{section*.25}%
+\contentsline {subsection}{Be like and look like}{11}{section*.26}%
+\contentsline {subsection}{What? and Which?}{11}{section*.27}%
+\contentsline {subsection}{How \dots ? questions}{12}{section*.28}%
+\contentsline {subsection}{Question tags}{12}{section*.29}%
+\contentsline {section}{\numberline {6}Verbs}{13}{section.1.6}%
+\contentsline {subsection}{Have}{13}{section*.30}%
+\contentsline {subsection}{Make, do and get}{13}{section*.31}%
+\contentsline {subsection}{Prepositional verbs}{13}{section*.32}%
+\contentsline {subsection}{Phrasal verbs}{13}{section*.33}%
+\contentsline {subsection}{Verbs with two objects}{13}{section*.34}%
+\contentsline {subsection}{Verb + -ing or verb + to-infitive; like and would like}{13}{section*.35}%
+\contentsline {subsection}{State verbs}{13}{section*.36}%
+\contentsline {section}{\numberline {7}Articles, nouns, pronouns}{14}{section.1.7}%
+\contentsline {subsection}{Countable and uncountable nouns}{14}{section*.37}%
+\contentsline {subsection}{Plural nouns}{14}{section*.38}%
+\contentsline {subsection}{Articles 1: a, an}{14}{section*.39}%
+\contentsline {subsection}{Articles 2: the}{14}{section*.40}%
+\contentsline {subsection}{This, that, these, those}{15}{section*.41}%
+\contentsline {subsection}{Some, any, no, none}{15}{section*.42}%
+\contentsline {subsection}{Something, everywhere, nobody, anyone}{15}{section*.43}%
+\contentsline {subsection}{Much, many, a lot of, a little, a few}{16}{section*.44}%
+\contentsline {subsection}{Possessive's}{16}{section*.45}%
+\contentsline {subsection}{Whose?, my, mine}{16}{section*.46}%
+\contentsline {subsection}{There and it}{16}{section*.47}%
+\contentsline {section}{\numberline {8}Adjectives and adverbs}{17}{section.1.8}%
+\contentsline {subsection}{Adjectives}{17}{section*.48}%
+\contentsline {subsection}{Order of adjectives}{17}{section*.49}%
+\contentsline {subsection}{Comparatives}{17}{section*.50}%
+\contentsline {subsection}{Superlatives}{17}{section*.51}%
+\contentsline {subsection}{Adverbs of manner}{17}{section*.52}%
+\contentsline {subsection}{Comparative and superlative adjectives and adverbs}{17}{section*.53}%
+\contentsline {subsection}{-ed and -ing adjectives}{18}{section*.54}%
+\contentsline {subsection}{Too and enough}{18}{section*.55}%
+\contentsline {subsection}{Adverbs of frequency}{18}{section*.56}%
+\contentsline {section}{\numberline {9}Prepositions}{19}{section.1.9}%
+\contentsline {subsection}{Prepositions of place}{19}{section*.57}%
+\contentsline {subsection}{Prepositions of time: at, in, on}{19}{section*.58}%
+\contentsline {subsection}{Prepositions of movement}{19}{section*.59}%
+\contentsline {section}{\numberline {10}The passive, conditionals}{20}{section.1.10}%
+\contentsline {subsection}{Passive: present and past simple}{20}{section*.60}%
+\contentsline {subsection}{Zero and first conditionals}{20}{section*.61}%
+\contentsline {subsection}{Second conditional}{20}{section*.62}%
+\contentsline {section}{\numberline {11}Reported speech, relative clauses}{21}{section.1.11}%
+\contentsline {subsection}{Reported speech}{21}{section*.63}%
+\contentsline {subsection}{Say and tell}{21}{section*.64}%
+\contentsline {subsection}{Defining relative clauses}{21}{section*.65}%
+\contentsline {section}{\numberline {12}Linking words and sentences}{22}{section.1.12}%
+\contentsline {subsection}{Linking words: and, but, or, so, because}{22}{section*.66}%
+\contentsline {subsection}{Time and sequence adverbs: first, then, afterwards}{22}{section*.67}%
+\contentsline {subsection}{Both, either, neither}{22}{section*.68}%
+\contentsline {subsection}{Word order}{22}{section*.69}%
+\contentsline {part}{II\hspace {1em}TABLES}{23}{part.2}%
+\contentsline {section}{\numberline {1}Irregular verbs}{27}{table.1}%
+\contentsline {section}{\numberline {2}Prepositional verbs}{30}{table.4}%
+\contentsline {section}{\nameref {sec:sources}}{31}{section*.70}%
