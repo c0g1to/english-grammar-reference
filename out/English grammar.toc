@@ -80,12 +80,14 @@
 \contentsline {subsection}{Passive}{29}{section*.72}%
 \contentsline {subsection}{Zero and first conditionals}{29}{section*.73}%
 \contentsline {subsection}{Second conditional}{30}{section*.74}%
+\contentsline {subsection}{\emoji {hot-pepper} Thrid conditional \emoji {hot-pepper}}{30}{section*.75}%
+\contentsline {subsection}{\emoji {hot-pepper} Variations on conditionals \emoji {hot-pepper}}{30}{section*.76}%
 \contentsline {section}{\numberline {12}Reported speech, relative clauses}{31}{section.0.12}%
-\contentsline {subsection}{Reported speech}{31}{section*.75}%
-\contentsline {subsection}{Say, tell, speak, talk}{31}{section*.76}%
-\contentsline {subsection}{Defining relative clauses}{31}{section*.77}%
+\contentsline {subsection}{Reported speech}{31}{section*.77}%
+\contentsline {subsection}{Say, tell, speak, talk}{31}{section*.78}%
+\contentsline {subsection}{Defining relative clauses}{31}{section*.79}%
 \contentsline {section}{\numberline {13}Linking words and sentences}{32}{section.0.13}%
-\contentsline {subsection}{Linking words: and, but, or, so, because}{32}{section*.78}%
-\contentsline {subsection}{Time and sequence adverbs: first, then, afterwards}{32}{section*.79}%
-\contentsline {subsection}{Word order}{32}{section*.80}%
-\contentsline {section}{\nameref {sec:sources}}{33}{section*.81}%
+\contentsline {subsection}{Linking words: and, but, or, so, because}{32}{section*.80}%
+\contentsline {subsection}{Time and sequence adverbs: first, then, afterwards}{32}{section*.81}%
+\contentsline {subsection}{Word order}{32}{section*.82}%
+\contentsline {section}{\nameref {sec:sources}}{33}{section*.83}%

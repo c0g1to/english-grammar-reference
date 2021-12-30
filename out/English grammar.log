@@ -1,18 +1,18 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.9.22)  11 NOV 2021 13:56
+This is LuaHBTeX, Version 1.14.0 (MiKTeX 21.12 32-bit) (format=lualatex 2021.12.9)  9 DEC 2021 23:12
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"English grammar.tex"
 ("./English grammar.tex"
-LaTeX2e <2021-06-01> patch level 1
+LaTeX2e <2021-11-15> patch level 1
 Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
 Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
 ollection.
-luaotfload | conf : Root cache directory is "/home/microslav/texlive/2021/texmf-
-var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "C:/Users/danii/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2021-05-20.lua" from kpse-res
-olved path "/home/microslav/texlive/2021/texmf-dist/tex/luatex/luaotfload/fontlo
-ader-2021-05-20.lua".
+olved path "C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
+ontloader-2021-05-20.lua".
 Lua-only attribute luaotfload@noligature = 1
 Lua-only attribute luaotfload@syllabe = 2
 luaotfload | init : Context OpenType loader version 3.116
@@ -21,8 +21,8 @@ Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 3
-luaotfload | conf : Root cache directory is "/home/microslav/texlive/2021/texmf-
-var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "C:/Users/danii/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
 Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
@@ -44,67 +44,73 @@ Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2021-08-27>
+. L3 programming layer <2021-11-22>
 Inserting `tracingstacklevels' at position 1 in `input_level_string'.
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/microslav/texlive/2021/t
-exmf-var/luatex-cache/generic/names/luaotfload-names.luc)
-\c@part=\count179
-\c@section=\count180
-\c@subsection=\count181
-\c@subsubsection=\count182
-\c@paragraph=\count183
-\c@subparagraph=\count184
-\c@figure=\count185
-\c@table=\count186
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/danii/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen137
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-08-27 L3 programming layer (loader) 
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
+e.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-luatex.d
-ef
-File: l3backend-luatex.def 2021-08-04 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count187
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
+tex.def
+File: l3backend-luatex.def 2021-10-18 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count189
 \l__pdf_internal_box=\box50
 ))
-Package: xparse 2021-08-27 L3 Experimental document command parser
+Package: xparse 2021-11-12 L3 Experimental document command parser
 )
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-luate
+x.sty
 Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count188
-\l__fontspec_language_int=\count189
-\l__fontspec_strnum_int=\count190
-\l__fontspec_tmp_int=\count191
-\l__fontspec_tmpa_int=\count192
-\l__fontspec_tmpb_int=\count193
-\l__fontspec_tmpc_int=\count194
-\l__fontspec_em_int=\count195
-\l__fontspec_emdef_int=\count196
-\l__fontspec_strong_int=\count197
-\l__fontspec_strongdef_int=\count198
-\l__fontspec_tmpa_dim=\dimen139
-\l__fontspec_tmpb_dim=\dimen140
-\l__fontspec_tmpc_dim=\dimen141
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+\l__fontspec_script_int=\count190
+\l__fontspec_language_int=\count191
+\l__fontspec_strnum_int=\count192
+\l__fontspec_tmp_int=\count193
+\l__fontspec_tmpa_int=\count194
+\l__fontspec_tmpb_int=\count195
+\l__fontspec_tmpc_int=\count196
+\l__fontspec_em_int=\count197
+\l__fontspec_emdef_int=\count198
+\l__fontspec_strong_int=\count199
+\l__fontspec_strongdef_int=\count266
+\l__fontspec_tmpa_dim=\dimen138
+\l__fontspec_tmpb_dim=\dimen139
+\l__fontspec_tmpc_dim=\dimen140
+ (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-luaotfload | cache : Lookup cache loaded from /home/microslav/texlive/2021/texmf
--var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
-luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+) (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
+)))
+luaotfload | cache : Lookup cache loaded from C:/Users/danii/AppData/Local/MiKTe
+X/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 23 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : font no 34 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'CMUSerif(0)' created for font 'CMU Serif'
@@ -116,15 +122,11 @@ Package fontspec Info: Font family 'CMUSerif(0)' created for font 'CMU Serif'
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"CMUSerif:mode=node;script=latn;language=dflt;+tlig;"
 
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"CMUSerif:mode=node;script=latn;language=dflt;+tlig;+
-smcp;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->"CMUSerif/B:mode=node;script=latn;language=dflt;+tlig
 ;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"CMUSerif/B:mode=node;script=latn;language=dflt;+tlig
-;+smcp;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->"CMUSerif/I:mode=node;script=latn;language=dflt;+tlig
 ;"
@@ -135,23 +137,25 @@ g;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -159,50 +163,53 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 \pdftexcmds@toks=\toks16
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/kvsetkeys/kvsetkeys.s
+ty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
-sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/home/microslav/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+)
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen142
-\Hy@linkcounter=\count199
-\Hy@pagecounter=\count266
-
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+\@linkdim=\dimen141
+\Hy@linkcounter=\count267
+\Hy@pagecounter=\count268
+ (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatche
-s.def
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref-langp
+atches.def
 File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
-) (/home/microslav/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+)
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/home/microslav/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+)
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count267
-
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+\Hy@SavedSpaceFactor=\count269
+ (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4192.
@@ -212,25 +219,26 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count268
+\c@Hy@tempcnt=\count270
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/url/url.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen143
+\XeTeXLinkMargin=\dimen142
 
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc
+.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count269
-\Field@Width=\dimen144
-\Fld@charsize=\dimen145
+\Fld@menulength=\count271
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
 Package hyperref Info: Hyper figures OFF on input line 6076.
 Package hyperref Info: Link nesting OFF on input line 6081.
 Package hyperref Info: Hyper index ON on input line 6084.
@@ -240,37 +248,38 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6101.
 Package hyperref Info: PDF/A mode OFF on input line 6106.
 LaTeX Info: Redefining \ref on input line 6146.
 LaTeX Info: Redefining \pageref on input line 6150.
- (/home/microslav/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count270
-\c@Item=\count271
-\c@Hfootnote=\count272
+\Hy@abspage=\count272
+\c@Item=\count273
+\c@Hfootnote=\count274
 )
 Package hyperref Info: Driver (autodetected): hluatex.
-
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/hyperref/hluatex.def
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
 File: hluatex.def 2021-06-07 v7.00m Hyperref driver for luaTeX
 
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
+ty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
-\Fld@listcount=\count273
-\c@bookmark@seq@number=\count274
+\Fld@listcount=\count275
+\c@bookmark@seq@number=\count276
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
-k.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfil
+echeck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounte
-r.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -278,69 +287,66 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count275
-))
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
-\col@sep=\dimen146
+\BKM@id=\count277
+)) (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen145
 \ar@mcellbox=\box51
-\extrarowheight=\dimen147
+\extrarowheight=\dimen146
 \NC@list=\toks18
 \extratabsurround=\skip50
 \backup@length=\skip51
 \ar@cellbox=\box52
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/graphics/color.sty
+Package: color 2021/10/11 v1.3b Standard LaTeX Color (DPC)
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: luatex.def on input line 149.
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/graphics-def/luatex.def
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
 File: luatex.def 2021/06/01 v1.2c Graphics/color driver for luatex
-))
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+)) (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+Package xcolor Info: Driver file: luatex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTleft=\skip52
 \LTright=\skip53
 \LTpre=\skip54
 \LTpost=\skip55
-\LTchunksize=\count276
-\LTcapwidth=\dimen148
+\LTchunksize=\count278
+\LTcapwidth=\dimen147
 \LT@head=\box53
 \LT@firsthead=\box54
 \LT@foot=\box55
 \LT@lastfoot=\box56
 \LT@gbox=\box57
-\LT@cols=\count277
-\LT@rows=\count278
-\c@LT@tables=\count279
-\c@LT@chunks=\count280
+\LT@cols=\count279
+\LT@rows=\count280
+\c@LT@tables=\count281
+\c@LT@chunks=\count282
 \LT@p@ftn=\toks19
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/02/05 v3.0 ragged2e Package
 \CenteringLeftskip=\skip56
 \RaggedLeftLeftskip=\skip57
@@ -357,58 +363,58 @@ Package: ragged2e 2021/02/05 v3.0 ragged2e Package
 \RaggedRightParindent=\skip68
 \JustifyingParindent=\skip69
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/extsizes/extsizes.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/extsizes/extsizes.sty
 Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
 
 
 Package ExtSizes Warning: It is better to use one of the extsizes classes,
  if you can.
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/extsizes/size14.clo
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/extsizes/size14.clo
 File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 ))
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen149
-\lightrulewidth=\dimen150
-\cmidrulewidth=\dimen151
-\belowrulesep=\dimen152
-\belowbottomsep=\dimen153
-\aboverulesep=\dimen154
-\abovetopsep=\dimen155
-\cmidrulesep=\dimen156
-\cmidrulekern=\dimen157
-\defaultaddspace=\dimen158
-\@cmidla=\count281
-\@cmidlb=\count282
-\@aboverulesep=\dimen159
-\@belowrulesep=\dimen160
-\@thisruleclass=\count283
-\@lastruleclass=\count284
-\@thisrulewidth=\dimen161
+\heavyrulewidth=\dimen148
+\lightrulewidth=\dimen149
+\cmidrulewidth=\dimen150
+\belowrulesep=\dimen151
+\belowbottomsep=\dimen152
+\aboverulesep=\dimen153
+\abovetopsep=\dimen154
+\cmidrulesep=\dimen155
+\cmidrulekern=\dimen156
+\defaultaddspace=\dimen157
+\@cmidla=\count283
+\@cmidlb=\count284
+\@aboverulesep=\dimen158
+\@belowrulesep=\dimen159
+\@thisruleclass=\count285
+\@lastruleclass=\count286
+\@thisrulewidth=\dimen160
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/ulem/ulem.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty
 \UL@box=\box58
 \UL@hyphenbox=\box59
 \UL@skip=\skip70
 \UL@hook=\toks20
-\UL@height=\dimen162
-\UL@pe=\count285
-\UL@pixel=\dimen163
+\UL@height=\dimen161
+\UL@pe=\count287
+\UL@pixel=\dimen162
 \ULC@box=\box60
 Package: ulem 2019/11/18
-\ULdepth=\dimen164
+\ULdepth=\dimen163
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/emoji/emoji.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/emoji/emoji.sty
 Package: emoji 2021/07/17 v0.2.2 Emoji support in (Lua)LaTeX
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/emoji/emoji-table.def
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/emoji/emoji-table.def
 File: emoji-table.def 2021/07/17 v0.2.2 Emojisupportin(Lua)LaTeX
-))
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/subfiles/subfiles.sty
+)) (C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.st
+y
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/import/import.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
 ))
 ./English grammar.tex:22: Illegal unit of measure (pt inserted).
@@ -447,39 +453,21 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/English gr
-ammar.aux"
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/legend.aux
-")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/tenses/pre
-sent.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/tenses/pas
-t.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/tenses/fut
-ure.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/modals.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sentences/
-questions.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/verbs.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/nouns.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/quantifiers.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/prepositions.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/adjectives.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sentences/
-conditionals.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sentences/
-speech.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sentences/
-linking.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sources.au
-x"))
+("C:/FILES/projects/latex/english-grammar-reference/out/English grammar.aux"
+(C:/FILES/projects/latex/english-grammar-reference/out/legend.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/tenses/present.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/tenses/past.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/tenses/future.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/modals.aux) (C:/FILES/projects/latex/english-grammar-reference/out/sentences/questions.aux) (C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/verbs.aux) (C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/nouns.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/quantifiers
+.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/preposition
+s.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/adjectives.
+aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/sentences/conditionals.a
+ux) (C:/FILES/projects/latex/english-grammar-reference/out/sentences/speech.aux
+) (C:/FILES/projects/latex/english-grammar-reference/out/sentences/linking.aux) (C:/FILES/projects/latex/english-grammar-reference/out/sources.aux))
 \openout1 = English grammar.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
@@ -493,7 +481,8 @@ LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
 9.
- (/home/microslav/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 69.
@@ -569,36 +558,39 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 69.
 Package hyperref Info: Link coloring OFF on input line 69.
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(/home/microslav/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/home/microslav/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestr
-ing.sty
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count286
+\c@section@level=\count288
 )
 LaTeX Info: Redefining \ref on input line 69.
 LaTeX Info: Redefining \pageref on input line 69.
 LaTeX Info: Redefining \nameref on input line 69.
 
-(/home/microslav/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:/Users/danii/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
-\scratchdimen=\dimen165
+\scratchcounter=\count289
+\scratchdimen=\dimen164
 \scratchbox=\box61
-\nofMPsegments=\count288
-\nofMParguments=\count289
+\nofMPsegments=\count290
+\nofMParguments=\count291
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count290
-\MPscratchDim=\dimen166
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen165
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks22
 )
+luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: Font "Twemoji
+Mozilla" not found.
 
 Package fontspec Info: Font family 'TwemojiMozilla(0)' created for font
 (fontspec)             'TwemojiMozilla' with options
@@ -617,21 +609,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 72.
-
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/English gr
-ammar.toc"
+ ("C:/FILES/projects/latex/english-grammar-reference/out/English grammar.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
- [1
 
-{/home/microslav/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-])
+[1
+
+{C:/Users/danii/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2])
 \tf@toc=\write3
 
 \openout3 = English grammar.toc
- [3]
+
+[3]
 \openout2 = legend.aux
  (./legend.tex) [4
 
@@ -649,7 +640,7 @@ LaTeX Font Warning: Font shape `TU/TwemojiMozilla(0)/b/n' undefined
 [6]) [7]
 \openout2 = tenses/past.aux
  (./tenses/past.tex
-Overfull \hbox (5.93156pt too wide) in paragraph at lines 14--16
+Overfull \hbox (5.66086pt too wide) in paragraph at lines 14--16
 []\TU/CMUSerif(0)/b/n/14.4 fin-ished \TU/CMUSerif(0)/m/n/14.4 ac-tions []with[]
  cer-tain time ex-pres-sions: \TU/CMUSerif(0)/m/it/14.4 yes-ter-day, last (night
 /week/year),
@@ -747,7 +738,21 @@ Underfull \hbox (badness 10000) detected at line 16
 
 
 
-]) [30]
+]
+
+./sentences/conditionals.tex:63: LaTeX Error: Something's wrong--perhaps a miss
+ing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \end{itemize}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) [30]
 \openout2 = sentences/speech.aux
  (./sentences/speech.tex) [31
 
@@ -755,76 +760,57 @@ Underfull \hbox (badness 10000) detected at line 16
 
 ]
 \openout2 = sentences/linking.aux
-
-(./sentences/linking.tex) [32
+ (./sentences/linking.tex) [32
 
 
 
 ]
 \openout2 = sources.aux
- (./sources.tex) [33
+
+(./sources.tex) [33
 
 
 
 ]
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/English gr
-ammar.aux"
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/legend.aux
-")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/tenses/pre
-sent.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/tenses/pas
-t.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/tenses/fut
-ure.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/modals.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sentences/
-questions.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/verbs.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/nouns.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/quantifiers.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/prepositions.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/speech-par
-ts/adjectives.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sentences/
-conditionals.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sentences/
-speech.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sentences/
-linking.aux")
-("/home/microslav/projects/latex-notes/English Grammar Reference/out/sources.au
-x"))
+("C:/FILES/projects/latex/english-grammar-reference/out/English grammar.aux"
+(C:/FILES/projects/latex/english-grammar-reference/out/legend.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/tenses/present.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/tenses/past.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/tenses/future.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/modals.aux) (C:/FILES/projects/latex/english-grammar-reference/out/sentences/questions.aux) (C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/verbs.aux) (C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/nouns.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/quantifiers
+.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/preposition
+s.aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/speech-parts/adjectives.
+aux)
+(C:/FILES/projects/latex/english-grammar-reference/out/sentences/conditionals.a
+ux) (C:/FILES/projects/latex/english-grammar-reference/out/sentences/speech.aux
+) (C:/FILES/projects/latex/english-grammar-reference/out/sentences/linking.aux) (C:/FILES/projects/latex/english-grammar-reference/out/sources.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 16802 strings out of 478112
+ 17478 strings out of 477867
  100000,662416 words of node,token memory allocated
  535 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 71 glue_spec,
  6 attribute_list, 3 write nodes
-   avail lists: 2:840,3:561,4:155,5:670,6:123,7:3836,8:94,9:542,10:5,11:204
- 36209 multiletter control sequences out of 65536+600000
- 67 fonts using 20520551 bytes
- 74i,6n,84p,727b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
-</home/microslav/texlive/2021/texmf-dist/fonts/opentype/public/cm-unicode/cmunbi
-.otf></home/microslav/texlive/2021/texmf-dist/fonts/opentype/public/cm-unicode/c
-munti.otf></home/microslav/texlive/2021/texmf-dist/fonts/truetype/public/twemoji
--colr/TwemojiMozilla.ttf></home/microslav/texlive/2021/texmf-dist/fonts/opentype
-/public/cm-unicode/cmunbx.otf></home/microslav/texlive/2021/texmf-dist/fonts/ope
-ntype/public/cm-unicode/cmunrm.otf></home/microslav/texlive/2021/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on English grammar.pdf (33 pages, 121046 bytes).
+   avail lists: 2:840,3:561,4:155,5:583,6:123,7:4161,8:94,9:542,10:5,11:204
+ 37123 multiletter control sequences out of 65536+600000
+ 59 fonts using 9664523 bytes
+ 74i,6n,82p,727b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/danii/AppData/Local/Microsoft/Windows/Fonts/cmunbi.ttf><C:/Users/danii
+/AppData/Local/Microsoft/Windows/Fonts/cmunti.ttf><C:/Users/danii/AppData/Local/
+Programs/MiKTeX/fonts/truetype/public/twemoji-colr/twemojimozilla.ttf><C:/Users/
+danii/AppData/Local/Microsoft/Windows/Fonts/cmunbx.ttf><C:/Users/danii/AppData/L
+ocal/Microsoft/Windows/Fonts/cmunrm.ttf><C:/Users/danii/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on English grammar.pdf (33 pages, 219724 bytes).
 
-PDF statistics: 657 PDF objects out of 1000 (max. 8388607)
- 600 compressed objects within 6 object streams
- 128 named destinations out of 1000 (max. 131072)
- 729 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 661 PDF objects out of 1000 (max. 8388607)
+ 130 named destinations out of 1000 (max. 131072)
+ 745 words of extra memory for PDF output out of 10000 (max. 100000000)
 

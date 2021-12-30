@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/English Grammar Reference.iml" filepath="$PROJECT_DIR$/.idea/English Grammar Reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/english-grammar-reference.iml" filepath="$PROJECT_DIR$/.idea/english-grammar-reference.iml" />
     </modules>
   </component>
 </project>
