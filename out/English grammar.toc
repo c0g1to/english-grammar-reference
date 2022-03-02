@@ -1,91 +1,106 @@
-\contentsline {section}{\nameref {sec:legend}}{4}{section*.2}%
-\contentsline {section}{\numberline {1}Present}{5}{section.0.1}%
-\contentsline {subsection}{Be}{5}{section*.5}%
-\contentsline {subsection}{Present simple}{5}{section*.6}%
-\contentsline {subsection}{Present continuous}{5}{section*.7}%
-\contentsline {subsection}{Imperatives}{6}{section*.8}%
-\contentsline {subsection}{Present perfect}{6}{section*.9}%
-\contentsline {subsection}{\emoji {hot-pepper} Present perfrect continuous \emoji {hot-pepper}}{6}{section*.10}%
-\contentsline {section}{\numberline {2}Past}{8}{section.0.2}%
-\contentsline {subsection}{Past simple}{8}{section*.11}%
-\contentsline {subsection}{Past continuous}{8}{section*.12}%
-\contentsline {subsection}{When, while, as}{8}{section*.13}%
-\contentsline {subsection}{Used to}{9}{section*.14}%
-\contentsline {subsection}{\emoji {hot-pepper} Would \emoji {hot-pepper}}{9}{section*.15}%
-\contentsline {subsection}{\emoji {hot-pepper} Past perfect \emoji {hot-pepper}}{9}{section*.16}%
-\contentsline {subsection}{\emoji {hot-pepper} Past perfect continuous \emoji {hot-pepper}}{9}{section*.17}%
-\contentsline {section}{\numberline {3}The future}{10}{section.0.3}%
-\contentsline {subsection}{Will}{10}{section*.18}%
-\contentsline {subsection}{Be going to}{10}{section*.19}%
-\contentsline {subsection}{\emoji {hot-pepper} Present tense for future use \emoji {hot-pepper}}{10}{section*.20}%
-\contentsline {subsection}{\emoji {hot-pepper} Future continuous \emoji {hot-pepper}}{10}{section*.21}%
-\contentsline {subsection}{\emoji {hot-pepper} Future perfect \emoji {hot-pepper}}{11}{section*.22}%
-\contentsline {subsection}{\emoji {hot-pepper} Be + to-infinitive \emoji {hot-pepper}}{11}{section*.23}%
-\contentsline {subsection}{\emoji {hot-pepper} Be about to \emoji {hot-pepper}}{11}{section*.24}%
-\contentsline {subsection}{\emoji {hot-pepper} Future in the past \emoji {hot-pepper}}{11}{section*.25}%
-\contentsline {section}{\numberline {4}Modal verbs}{12}{section.0.4}%
-\contentsline {subsection}{Abilitiy}{12}{section*.26}%
-\contentsline {subsection}{Obligation and necessary}{12}{section*.27}%
-\contentsline {subsection}{Advice}{12}{section*.28}%
-\contentsline {subsection}{\emoji {hot-pepper} Possibilty \emoji {hot-pepper}}{12}{section*.29}%
-\contentsline {subsection}{\emoji {hot-pepper} Request and permission \emoji {hot-pepper}}{13}{section*.30}%
-\contentsline {subsection}{\emoji {hot-pepper} Offer, suggestion, promise \emoji {hot-pepper}}{13}{section*.31}%
-\contentsline {section}{\numberline {5}Questions and answers}{14}{section.0.5}%
-\contentsline {subsection}{Yes/no}{14}{section*.32}%
-\contentsline {subsection}{Wh-}{14}{section*.33}%
-\contentsline {subsection}{How, Short question}{14}{section*.34}%
-\contentsline {subsection}{Question tags}{14}{section*.35}%
-\contentsline {section}{\numberline {6}Verbs}{16}{section.0.6}%
-\contentsline {subsection}{Have}{16}{section*.36}%
-\contentsline {subsection}{Phrasal verbs}{16}{section*.37}%
-\contentsline {subsection}{Gerund; would like}{16}{section*.38}%
-\contentsline {subsection}{Get, make, do}{16}{section*.39}%
-\contentsline {subsection}{\emoji {hot-pepper} Linking verbs \emoji {hot-pepper}}{17}{section*.40}%
-\contentsline {subsection}{Verbs with two objects}{17}{section*.41}%
-\contentsline {section}{\numberline {7}Articles, nouns, pronouns}{18}{section.0.7}%
-\contentsline {subsection}{Articles 1: a, an}{18}{section*.42}%
-\contentsline {subsection}{\emoji {hot-pepper} Articles 2: the \emoji {hot-pepper}}{18}{section*.43}%
-\contentsline {subsection}{Articles 3: no article}{18}{section*.44}%
-\contentsline {subsection}{Countable and uncountable nouns}{18}{section*.45}%
-\contentsline {subsection}{Plural nouns}{19}{section*.46}%
-\contentsline {subsection}{This, that, these, those}{19}{section*.47}%
-\contentsline {subsection}{Possessive's}{19}{section*.48}%
-\contentsline {subsection}{Whose?, my, mine}{19}{section*.49}%
-\contentsline {subsection}{There and it}{20}{section*.50}%
-\contentsline {subsection}{\emoji {hot-pepper} Reflexive pronouns \emoji {hot-pepper}}{20}{section*.51}%
-\contentsline {section}{\numberline {8}Quantifiers}{21}{section.0.8}%
-\contentsline {subsection}{Some, any, no}{21}{section*.52}%
-\contentsline {subsection}{Smth, everywhere, nobody, anyone}{21}{section*.53}%
-\contentsline {subsection}{Both, either, neither}{22}{section*.54}%
-\contentsline {subsection}{All, each, every, none}{22}{section*.55}%
-\contentsline {subsection}{Much, many, little, few}{22}{section*.56}%
-\contentsline {subsection}{Too and enough}{23}{section*.57}%
-\contentsline {section}{\numberline {9}Prepositions}{24}{section.0.9}%
-\contentsline {subsection}{Prepositions}{24}{section*.58}%
-\contentsline {subsection}{Prepositions of place}{24}{section*.59}%
-\contentsline {subsection}{Prepositions of movement}{24}{section*.60}%
-\contentsline {subsection}{Prepositions of time}{25}{section*.61}%
-\contentsline {section}{\numberline {10}Adjectives and adverbs}{26}{section.0.10}%
-\contentsline {subsection}{Adjectives}{26}{section*.62}%
-\contentsline {subsection}{-ed and -ing adjectives}{26}{section*.63}%
-\contentsline {subsection}{Gradable adjectives}{26}{section*.64}%
-\contentsline {subsection}{Order of adjectives}{26}{section*.65}%
-\contentsline {subsection}{Comparatives}{27}{section*.66}%
-\contentsline {subsection}{Superlatives}{27}{section*.67}%
-\contentsline {subsection}{Adverbs of manner}{28}{section*.68}%
-\contentsline {subsection}{Adverbs of frequency}{28}{section*.69}%
-\contentsline {subsection}{\emoji {hot-pepper} Adverbs of time and place \emoji {hot-pepper}}{28}{section*.70}%
-\contentsline {subsection}{\emoji {hot-pepper} Adverbs of certainity and degree \emoji {hot-pepper}}{28}{section*.71}%
-\contentsline {section}{\numberline {11}The passive, conditionals}{29}{section.0.11}%
-\contentsline {subsection}{Passive}{29}{section*.72}%
-\contentsline {subsection}{Zero and first conditionals}{29}{section*.73}%
-\contentsline {subsection}{Second conditional}{30}{section*.74}%
-\contentsline {section}{\numberline {12}Reported speech, relative clauses}{31}{section.0.12}%
-\contentsline {subsection}{Reported speech}{31}{section*.75}%
-\contentsline {subsection}{Say, tell, speak, talk}{31}{section*.76}%
-\contentsline {subsection}{Defining relative clauses}{31}{section*.77}%
-\contentsline {section}{\numberline {13}Linking words and sentences}{32}{section.0.13}%
-\contentsline {subsection}{Linking words: and, but, or, so, because}{32}{section*.78}%
-\contentsline {subsection}{Time and sequence adverbs: first, then, afterwards}{32}{section*.79}%
-\contentsline {subsection}{Word order}{32}{section*.80}%
-\contentsline {section}{\nameref {sec:sources}}{33}{section*.81}%
+\contentsline {section}{\nameref {sec:legend}}{5}{section*.2}%
+\contentsline {section}{\numberline {1}Present}{6}{section.0.1}%
+\contentsline {subsection}{Be}{6}{section*.5}%
+\contentsline {subsection}{Present simple}{6}{section*.6}%
+\contentsline {subsection}{Present continuous}{6}{section*.7}%
+\contentsline {subsection}{Imperatives}{7}{section*.8}%
+\contentsline {subsection}{Present perfect}{7}{section*.9}%
+\contentsline {subsection}{\emoji {hot-pepper} Present perfrect continuous \emoji {hot-pepper}}{7}{section*.10}%
+\contentsline {section}{\numberline {2}Past}{9}{section.0.2}%
+\contentsline {subsection}{Past simple}{9}{section*.11}%
+\contentsline {subsection}{Past continuous}{9}{section*.12}%
+\contentsline {subsection}{When, while, as}{9}{section*.13}%
+\contentsline {subsection}{Used to}{10}{section*.14}%
+\contentsline {subsection}{\emoji {hot-pepper} Would \emoji {hot-pepper}}{10}{section*.15}%
+\contentsline {subsection}{\emoji {hot-pepper} Past perfect \emoji {hot-pepper}}{10}{section*.16}%
+\contentsline {subsection}{\emoji {hot-pepper} Past perfect continuous \emoji {hot-pepper}}{10}{section*.17}%
+\contentsline {section}{\numberline {3}The future}{11}{section.0.3}%
+\contentsline {subsection}{Will}{11}{section*.18}%
+\contentsline {subsection}{Be going to}{11}{section*.19}%
+\contentsline {subsection}{\emoji {hot-pepper} Present tense for future use \emoji {hot-pepper}}{11}{section*.20}%
+\contentsline {subsection}{\emoji {hot-pepper} Future continuous \emoji {hot-pepper}}{11}{section*.21}%
+\contentsline {subsection}{\emoji {hot-pepper} Future perfect \emoji {hot-pepper}}{12}{section*.22}%
+\contentsline {subsection}{\emoji {hot-pepper} Be + to-infinitive \emoji {hot-pepper}}{12}{section*.23}%
+\contentsline {subsection}{\emoji {hot-pepper} Be about to \emoji {hot-pepper}}{12}{section*.24}%
+\contentsline {subsection}{\emoji {hot-pepper} Future in the past \emoji {hot-pepper}}{12}{section*.25}%
+\contentsline {section}{\numberline {4}Modal verbs}{13}{section.0.4}%
+\contentsline {subsection}{Abilitiy}{13}{section*.26}%
+\contentsline {subsection}{Obligation and necessary}{13}{section*.27}%
+\contentsline {subsection}{Advice}{13}{section*.28}%
+\contentsline {subsection}{\emoji {hot-pepper} Possibilty \emoji {hot-pepper}}{13}{section*.29}%
+\contentsline {subsection}{\emoji {hot-pepper} Request and permission \emoji {hot-pepper}}{14}{section*.30}%
+\contentsline {subsection}{\emoji {hot-pepper} Offer, suggestion, promise \emoji {hot-pepper}}{14}{section*.31}%
+\contentsline {section}{\numberline {5}Questions and answers}{15}{section.0.5}%
+\contentsline {subsection}{Yes/no}{15}{section*.32}%
+\contentsline {subsection}{Wh-}{15}{section*.33}%
+\contentsline {subsection}{How, Short question}{15}{section*.34}%
+\contentsline {subsection}{Question tags}{15}{section*.35}%
+\contentsline {section}{\numberline {6}Verbs}{17}{section.0.6}%
+\contentsline {subsection}{Have}{17}{section*.36}%
+\contentsline {subsection}{Phrasal verbs}{17}{section*.37}%
+\contentsline {subsection}{Gerund; would like}{17}{section*.38}%
+\contentsline {subsection}{Get, make, do}{17}{section*.39}%
+\contentsline {subsection}{\emoji {hot-pepper} Linking verbs \emoji {hot-pepper}}{18}{section*.40}%
+\contentsline {subsection}{Verbs with two objects}{18}{section*.41}%
+\contentsline {section}{\numberline {7}Articles, nouns, pronouns}{19}{section.0.7}%
+\contentsline {subsection}{Articles 1: a, an}{19}{section*.42}%
+\contentsline {subsection}{\emoji {hot-pepper} Articles 2: the \emoji {hot-pepper}}{19}{section*.43}%
+\contentsline {subsection}{Articles 3: no article}{19}{section*.44}%
+\contentsline {subsection}{Countable and uncountable nouns}{19}{section*.45}%
+\contentsline {subsection}{Plural nouns}{20}{section*.46}%
+\contentsline {subsection}{This, that, these, those}{20}{section*.47}%
+\contentsline {subsection}{Possessive's}{20}{section*.48}%
+\contentsline {subsection}{Whose?, my, mine}{20}{section*.49}%
+\contentsline {subsection}{There and it}{21}{section*.50}%
+\contentsline {subsection}{\emoji {hot-pepper} Reflexive pronouns \emoji {hot-pepper}}{21}{section*.51}%
+\contentsline {section}{\numberline {8}Quantifiers}{23}{section.0.8}%
+\contentsline {subsection}{Some, any, no}{23}{section*.52}%
+\contentsline {subsection}{Smth, everywhere, nobody, anyone}{23}{section*.53}%
+\contentsline {subsection}{Both, either, neither}{24}{section*.54}%
+\contentsline {subsection}{All, each, every, none}{24}{section*.55}%
+\contentsline {subsection}{Much, many, little, few}{24}{section*.56}%
+\contentsline {subsection}{Too and enough}{25}{section*.57}%
+\contentsline {section}{\numberline {9}Prepositions}{26}{section.0.9}%
+\contentsline {subsection}{Prepositions}{26}{section*.58}%
+\contentsline {subsection}{Prepositions of place}{26}{section*.59}%
+\contentsline {subsection}{Prepositions of movement}{26}{section*.60}%
+\contentsline {subsection}{Prepositions of time}{27}{section*.61}%
+\contentsline {section}{\numberline {10}Adjectives and adverbs}{28}{section.0.10}%
+\contentsline {subsection}{Adjectives}{28}{section*.62}%
+\contentsline {subsection}{-ed and -ing adjectives}{28}{section*.63}%
+\contentsline {subsection}{Gradable adjectives}{28}{section*.64}%
+\contentsline {subsection}{Order of adjectives}{28}{section*.65}%
+\contentsline {subsection}{Comparatives}{29}{section*.66}%
+\contentsline {subsection}{Superlatives}{29}{section*.67}%
+\contentsline {subsection}{Adverbs of manner}{30}{section*.68}%
+\contentsline {subsection}{Adverbs of frequency}{30}{section*.69}%
+\contentsline {subsection}{\emoji {hot-pepper} Adverbs of time and place \emoji {hot-pepper}}{30}{section*.70}%
+\contentsline {subsection}{\emoji {hot-pepper} Adverbs of certainity and degree \emoji {hot-pepper}}{30}{section*.71}%
+\contentsline {section}{\numberline {11}\emoji {hot-pepper} Word formaiton \emoji {hot-pepper}}{31}{section.0.11}%
+\contentsline {subsection}{\emoji {hot-pepper} Affixes: verbs and adjectives \emoji {hot-pepper}}{31}{section*.72}%
+\contentsline {subsection}{\emoji {hot-pepper} Affixes: nouns \emoji {hot-pepper}}{31}{section*.73}%
+\contentsline {section}{\numberline {12}The passive, conditionals}{32}{section.0.12}%
+\contentsline {subsection}{Passive}{32}{section*.74}%
+\contentsline {subsection}{Zero and first conditionals}{32}{section*.75}%
+\contentsline {subsection}{Second conditional}{33}{section*.76}%
+\contentsline {subsection}{\emoji {hot-pepper} Thrid conditional \emoji {hot-pepper}}{33}{section*.77}%
+\contentsline {subsection}{\emoji {hot-pepper} Variations on conditionals \emoji {hot-pepper}}{33}{section*.78}%
+\contentsline {section}{\numberline {13}Indirect speech, relative clauses}{35}{section.0.13}%
+\contentsline {subsection}{Indirect statements}{35}{section*.79}%
+\contentsline {subsection}{\emoji {hot-pepper} Indirect questions \emoji {hot-pepper}}{35}{section*.80}%
+\contentsline {subsection}{Say, tell, speak, talk}{35}{section*.81}%
+\contentsline {subsection}{Defining relative clauses}{36}{section*.82}%
+\contentsline {subsection}{\emoji {hot-pepper} Non-defining relative clauses \emoji {hot-pepper}}{36}{section*.83}%
+\contentsline {section}{\numberline {14}Linking words and sentences}{37}{section.0.14}%
+\contentsline {subsection}{Linking words: and, but, or, so, because}{37}{section*.84}%
+\contentsline {subsection}{\emoji {hot-pepper} Linking words: addition, contrast and time \emoji {hot-pepper}}{37}{section*.85}%
+\contentsline {subsubsection}{Addition}{37}{section*.86}%
+\contentsline {subsubsection}{Contrast}{37}{section*.87}%
+\contentsline {subsubsection}{Time}{38}{section*.88}%
+\contentsline {subsection}{\emoji {hot-pepper} Linking words: reason purpose and result \emoji {hot-pepper}}{38}{section*.89}%
+\contentsline {subsubsection}{Reason}{38}{section*.90}%
+\contentsline {subsubsection}{Purpose}{38}{section*.91}%
+\contentsline {subsubsection}{Result}{39}{section*.92}%
+\contentsline {subsection}{Time and sequence adverbs: first, then, afterwards}{39}{section*.93}%
+\contentsline {subsection}{Word order}{39}{section*.94}%
+\contentsline {section}{\nameref {sec:sources}}{40}{section*.95}%
